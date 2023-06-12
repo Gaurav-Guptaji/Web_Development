@@ -1,0 +1,13 @@
+
+
+# first time
+git init
+
+git status
+git add.
+
+# first time
+git config --global user.name "Name"
+git config --global user.email "email"
+
+git commit -m "Your message"
