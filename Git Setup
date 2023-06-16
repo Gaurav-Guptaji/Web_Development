@@ -23,3 +23,9 @@ git push origin master
 
 # cloning a repository
 git clone path
+
+#create new branch
+git checkout -b newBranch
+
+#create new branch from
+git checkout -b newBranch origin/master
