@@ -20,3 +20,6 @@ git remote add origin "repository path"
 git add .
 git commit -m "Daily comment"
 git push origin master
+
+# cloning a repository
+git clone path
